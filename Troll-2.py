@@ -1,3 +1,4 @@
+#Turns the main screen Black until user hit Alt+F4 to stop file he cant able to close it manually 
 import tkinter 
 
 r = tkinter.Tk()
