@@ -1,3 +1,5 @@
+#shows the fake kernal WarningBox. You can change limit upto 100 or more
+
 import tkinter as tk
 from tkinter import messagebox
 
