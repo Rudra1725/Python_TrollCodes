@@ -1,3 +1,5 @@
+#user cant able to move his mouse for some time but you can make it infinite time by just removing @KeyboardInterrupt
+
 import random
 import time
 import pyautogui
