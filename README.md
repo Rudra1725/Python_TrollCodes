@@ -1,6 +1,6 @@
 # 💣 Prank_ur_friend
 
-A chaotic little prank project designed to surprise your friends with unexpected websites, funny sound effects, and over-the-top jump scares. 😂💀
+A chaotic little prank project designed to surprise your friends with unexpected websites, funny sound effects, and over-the-top jump scares, Fake Warning box 😂💀
 
 ## 🤡 Features
 
