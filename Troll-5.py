@@ -2,7 +2,9 @@
 import pyautogui as pg
 #pg.FAILSAFE = True
 #While True:
-#pg.moveTo(X,Y) Mouse Co-rdinates
+#pg.moveTo(X,Y) Mouse Co-rdinates 
+
+#I assume Your smart enough to install [ pip install pyautogui ] also where to place codes
 pg.press('win')
 pg.sleep(0.30)
 pg.write("cmd")
