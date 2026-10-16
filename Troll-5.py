@@ -1,6 +1,8 @@
 #If you want to make it harmful add the while loop where i have given and the make sure to add these additional lines
 import pyautogui as pg
-
+#og.FAILSAFE = True
+#While True:
+#pg.moveTo(X,Y) Mouse Co-rdinates
 pg.press('win')
 pg.sleep(0.30)
 pg.write("cmd")
