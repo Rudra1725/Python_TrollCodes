@@ -1,4 +1,4 @@
-import secrets 
+
 import pyautogui as pg
 
 pg.press('win')
